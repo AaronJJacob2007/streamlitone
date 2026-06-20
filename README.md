@@ -1,6 +1,6 @@
 # Streamlit Learning
 
-This repository contains my Python and Streamlit learning projects.
+This repository contains my Python and Streamlit learning exercises.
 
 ## Projects
 - Age Calculator
